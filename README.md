@@ -109,16 +109,3 @@ This helped me practise a modern development workflow where AI accelerates build
 
 ---
 
-## Screenshots to Include
-
-Add screenshots to the `screenshots/` folder.
-
-Recommended screenshots:
-
-```text
-screenshots/homepage.png
-screenshots/dashboard-overview.png
-screenshots/member-management.png
-screenshots/booking-flow.png
-screenshots/admin-panel.png
-screenshots/mobile-view.png
